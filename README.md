@@ -1,3 +1,3 @@
-# codeinplace2021
+# Codein Place2021
 
-Final Project of Stanford's CodeInPlace2021
+Final Project of Stanford Code in Place2021
