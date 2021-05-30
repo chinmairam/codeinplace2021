@@ -1,0 +1,79 @@
+{
+  "question": [
+    "Q1. When was Stanford University founded?",
+    "Q2. Identify the capital of India?",
+    "Q3. Who created Python",
+    "Q4. What is the name of India's National Aquatic Animal",
+    "Q5. Who designed Eiffel Tower?",
+    "Q6. Where is the oldest tree in the world?",
+    "Q7. How many countries make up Africa?",
+    "Q8. Which gas is formed when a Hydrogen bomb is detonated?",
+    "Q9. What is another name of Mickey Mouse?",
+    "Q10. In Frozen,what is the name of the kingdom that Anna and Elsa live in?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+    1,
+    2,
+    4,
+    1,
+    2,
+    3
+  ],
+  "options": [
+
+    ["1885",
+     "1895",
+     "1901",
+     "1886"
+    ],
+    ["Jaipur",
+      "New Delhi",
+      "Chennai",
+      "Mumbai"
+    ],
+    ["Dennis M. Ritchie",
+      "Bjarne Stroustrup",
+      "Guido van Rossum",
+      "Niklaus Wirth"
+    ],
+    ["Katla Fish",
+     "River Dolphin",
+     "Crocodile",
+     "Green Frog"
+    ],
+    ["Gustave Eiffel",
+     "Margaret Thatcher",
+     "Louis Philippe",
+     "Stephen Sauvestre"
+    ],
+    ["Italy",
+     "California",
+     "Texas",
+     "Florida"
+    ],
+    ["49",
+     "50",
+     "56",
+     "48"
+    ],
+    ["Helium",
+     "Argon",
+     "Radon",
+     "Nitrogen"
+    ],
+    ["Melvin Mouse",
+     "Martimer Mouse",
+     "Marty Mouse",
+     "Maddy Mouse"
+    ],
+    ["Wigan",
+     "Urendille",
+     "Arendelle",
+     "Endonoole"
+    ]
+  ]
+}
